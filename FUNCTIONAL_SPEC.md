@@ -799,7 +799,7 @@ GPS Campaign (dashicons-megaphone)
 │                                                          │
 │  Recent runs (last 7)                                    │
 │  Apr 26 · EtW/personal_story    · Lila's story  · Posted│
-│  Apr 25 · V2027/bill_card       · the Innocence Deadline Repeal Act        · Posted│
+│  Apr 25 · V2027/bill_card       · the Habeas Corpus Restoration Act        · Posted│
 │  Apr 24 · BTW/death_notice      · [withheld]    · Queued│
 │  Apr 23 · EtW/stat_poster       · 1,772+ deaths · Posted│
 │  Apr 22 · V2027/stat_poster     · 7 of 9 justices · Posted│
